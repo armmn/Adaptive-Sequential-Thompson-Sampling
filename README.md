@@ -1,1 +1,1 @@
-# Adaptive-Sequential-Thompson-Sampling
+# Adaptive-Sequential-Experiments-Thompson-Sampling
